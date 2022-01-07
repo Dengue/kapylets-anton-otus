@@ -1,1 +1,1 @@
-# kapylets_anton-otus
+# kapylets-anton-otus
